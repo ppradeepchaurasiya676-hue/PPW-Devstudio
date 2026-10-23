@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@keyframes floatGentle {
+  0%, 100% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-8px);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .animate-float {
+    animation: floatGentle 5s ease-in-out infinite;
+  }
+}
