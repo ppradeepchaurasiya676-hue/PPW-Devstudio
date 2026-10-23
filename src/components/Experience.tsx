@@ -108,7 +108,7 @@ export const Experience: React.FC<ExperienceProps> = ({ onOpenHireMe }) => {
                 <div>
                   <div className="flex items-center gap-1.5">
                     <span className="text-xl sm:text-2xl font-black text-[#102A56] tracking-tight">
-                      12 Months
+                      1 Year
                     </span>
                     <span className="w-2 h-2 rounded-full bg-[#FBBF24]" />
                   </div>
@@ -142,7 +142,7 @@ export const Experience: React.FC<ExperienceProps> = ({ onOpenHireMe }) => {
               {/* Exact Description Provided */}
               <div className="relative p-5 rounded-2xl bg-white border border-slate-200/80 shadow-2xs">
                 <p className="text-sm sm:text-base text-slate-600 leading-relaxed">
-                  "I have 12 months of experience in website development, creating modern, responsive, and user-friendly websites for businesses, hotels, and restaurants. I work with AI-assisted development tools, website design, digital menus, and website deployment."
+                  "I have 1 year of experience in website development, creating modern, responsive, and user-friendly websites for businesses, hotels, and restaurants. I work with AI-assisted development tools, website design, digital menus, and website deployment."
                 </p>
                 <div className="mt-4 pt-3 border-t border-slate-100 flex items-center justify-between text-xs text-slate-500">
                   <span className="font-medium">— Pradeep Kumar</span>
